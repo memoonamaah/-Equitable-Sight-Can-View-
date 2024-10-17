@@ -45,8 +45,8 @@ When reusing, you can delete most content written here, and use this MarkDown te
 
 ## Vision and Mission
 
-- **Vision:** One sentence capturing the project's overarching vision.
-- **Mission:** One sentence defining the project's goals and target audience.
+- **Vision:** Providing resources to make decision-making equitable
+- **Mission:** By using the principle of FAIRE and CARE, co-designed Data Governance structure for the indigenous community
 
 ## About
 
@@ -54,13 +54,13 @@ Motivation and background in a nutshell.
 
 ## Roadmap & Milestones
 
-- **Goals:** Clear overview of overarching and short-term goals.
-- **Outcomes:** Description of expected results and deliverables.
+- **Goals:** Creating Data Governance Structure
+- **Outcomes:** An Equitable data governance structure developed through collaboration of Indigious Communities.
 
 ## The Team
 
-- **Members:** List of team members and their roles in the project.
-- **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
+- **Members:* Memoona Maah, Gina Najiman
+- **Roles & Responsibilities:** Memoona Maah:Assissting in developing data governance structure    Gina Najiman:Assissting in developing data governance structure 
 
 ## Contributing
 
@@ -70,8 +70,7 @@ Motivation and background in a nutshell.
 
 ## Licensing
 
-Clearly define the license under which the repository's work is shared.
-(Example: This project is licensed under the MIT License - see the LICENSE.md file for details.)
+- **This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Citing & Acknowledgement
 
@@ -80,7 +79,7 @@ Clearly define the license under which the repository's work is shared.
 
 ## Contact
 
-- **Reach Out:** Contact details for questions, feedback, or ideas.
+- **Reach Out:** mmaah@uwaterloo.ca
 
 ```
 
